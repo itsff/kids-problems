@@ -25,6 +25,13 @@ How much more money does he need?
 
 Dad's car is a steaming pile of junk. It needs new tires which cost $425, new whipers
 which cost $35, and an oil change for $44.99.
-He only has $550. Can he afford all these repairs?
+Dad only has $550. Can he afford all these repairs?
 
 <div style="page-break-after: always"></div>
+
+# Problem 5
+
+Mike really wants to see Star Wars in the movie theater. The ticket costs $35.
+Has $7.35 from his allowence, he also moved grass and got $15.23. Mike's grandma
+gave him $25, but a bully stole $10 from him.
+Can he afford to see Star Wars at the movies?
